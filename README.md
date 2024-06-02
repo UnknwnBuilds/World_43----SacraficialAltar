@@ -1,4 +1,4 @@
-# World_43----SacraficialAltar
+# World_43----SacrificialAltar
 Sacrificial Altar | 275 x 275 map, 50% world size, Slate & Granite, Temperate Forest
 
 Mods: All can be safely removed!
